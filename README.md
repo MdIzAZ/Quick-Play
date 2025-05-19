@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/0dce2ba0-6b7a-430b-b0f9-0fa73effa672" alt="play" height="300"/>
+<img src="https://github.com/user-attachments/assets/0dce2ba0-6b7a-430b-b0f9-0fa73effa672" alt="play" height="150"/>
 
 # Quick Player
 
@@ -14,7 +14,7 @@ Features
     5. Sorting videos (eg: Size, Name, Date etc).
 
 
-# Download the App here.
+# Download the App here
 
 <a href="https://indusapp.store/qyqaxbtn" target="_blank" rel="noopener noreferrer">
   <img alt="Get it on Indus Appstore" src="https://docstore.indusappstore.com/public/external/developerdashboard-static/badge-black-background-english.png" width="150"/>
