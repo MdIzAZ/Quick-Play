@@ -1,5 +1,6 @@
 
-# Quick Player
+# Quick Player  ![play](https://github.com/user-attachments/assets/0a6c3a0b-153a-4590-a652-af110e46d907)
+
 
 A video player app.
 
