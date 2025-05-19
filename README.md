@@ -13,6 +13,13 @@ Features
     4. Video Resize.
     5. Sorting videos (eg: Size, Name, Date etc).
 
+
+# Download the App here.
+
+<a href="https://indusapp.store/qyqaxbtn" target="_blank" rel="noopener noreferrer">
+  <img alt="Get it on Indus Appstore" src="https://docstore.indusappstore.com/public/external/developerdashboard-static/badge-black-background-english.png" width="150"/>
+</a>
+
     
 
 # Screen Shorts
